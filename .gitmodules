@@ -1,0 +1,12 @@
+[submodule "Blender"]
+	path = Blender
+	url = https://github.com/GLUD/Blender
+[submodule "Bots-Battle"]
+	path = Bots-Battle
+	url = https://github.com/GLUD/Bots-Battle
+[submodule "Kokopelli3D"]
+	path = Kokopelli3D
+	url = https://github.com/GLUD/Kokopelli3D
+[submodule "Logo-GLUD"]
+	path = Logo-GLUD
+	url = https://github.com/GLUD/Logo-GLUD
